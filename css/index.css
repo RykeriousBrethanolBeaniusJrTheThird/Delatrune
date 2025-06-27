@@ -27,9 +27,7 @@ aside a:hover {
 	color: white;
 }
 
-#hiddentitle{
-	display:none;
-}
+
 
 /* Change the color of aside links on focus using tab key */
 aside a:focus {
